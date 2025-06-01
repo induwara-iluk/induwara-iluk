@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @induwara-iluk
-- 👀 I’m interested in Electronics and Telecommunication
+- 👀 I’m interested in Electronics and Telecommunication , AI and ML 
 - 🌱 I’m currently studying at the Department of Electronics and Telecommunications at the University of Moratuwa
 - 📫 How to reach me: induwarailukkumbura@gmail.com
-- ⚡ Fun fact: I can do Magic 
+- ⚡ Fun fact: I can do Magic
+
 
 <!---
 induwara-iluk/induwara-iluk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
